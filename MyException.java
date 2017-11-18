@@ -61,24 +61,4 @@ class OldException extends Exception
 	
 		super(s);
  }
-		}
-
-
-class TooyoungException extends Exception 
-{
-
- 	TooyoungException(String s)
-	{
-  		super(s);
-			
-			}
-				}
-
-
-class OldException extends Exception
-{
-OldException(String s) 
-	{
-		super(s);
- }
-			}
+}
