@@ -1,7 +1,6 @@
 import java.util.*; 
 class HashMapDemo {
 
-
 public static void main(String[] args) {
 
 Scanner sc=new Scanner(System.in);
