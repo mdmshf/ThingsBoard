@@ -1,4 +1,4 @@
-interface nameA        //Declation of interface
+interface nameA        //Declaration of interface
 {
  
     public String name = "Farhan";  // Declaration of static constant.
