@@ -1,0 +1,6 @@
+to run jar file created using maven go to folder containing jar file and type 
+java -cp <jarfilename> com.danish.App x <num1> <num2> <press enter>
+x=a for add
+x=s for sub
+x=d for div
+x=m for mul
