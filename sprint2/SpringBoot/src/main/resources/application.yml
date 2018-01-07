@@ -1,0 +1,12 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: zuuldemo
+
+zuul:
+  routes:
+    demo:
+      path: /getName
+      service-id: demo
+      strip-prefix: false
