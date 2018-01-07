@@ -1,0 +1,13 @@
+You need Java 1.8, apache maven 3.5.2 and git
+
+To run this spring petclinic app, clone this folder using command and move to "spring-petclinic-app" folder by following command
+$ git clone https://github.com/mdmshf/ThingsBoard/tree/master/sprint2/spring-petclinic-app
+$ cd spring-petclinic-app
+
+Then run mvn and compile and install this app using : 
+$ mvn clean install
+
+Then run spring-petclinic-app using:
+$ mvnw spring-boot:run
+
+You can then access petclinic here: http://localhost:8080/
