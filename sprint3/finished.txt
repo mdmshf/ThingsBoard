@@ -1,0 +1,4 @@
+* Forked a version of Thingsboard
+* Renamed Thingsboard to something else in pom file and deployed on localhost
+* Understood how thingsboard works 
+* Understood how thingsboard use cases work
