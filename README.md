@@ -21,7 +21,7 @@ contract​ ​transaction.**
 
 ## Skillset
 - Solidity
-  - This is a necessary skillset to develop smart contracts code for ethereum.
+  - This is a necessary skillset to develop smart contracts code for ethereum based blockchain technology.
   - [Reference Document] (https://solidity.readthedocs.io/en/develop/)
 - Java
 - Maven - java build tool
